@@ -36,7 +36,3 @@
   
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<h3> 🐱‍👓 Connect with Me </h3> 
-
-- ![Static Badge](https://img.shields.io/badge/-Discord-333333?style=flat&logo=Discord) &nbsp; rxxyovksi
