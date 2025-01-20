@@ -20,7 +20,7 @@ I'm a software developer with a knack for problem-solving. Currently based in Ch
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/ricardo-chavez05","instagram":"https://www.instagram.com/rxxyvoski/"}
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mukaovski) 
 
 ## ASCII Art
 
@@ -34,3 +34,7 @@ I'm a software developer with a knack for problem-solving. Currently based in Ch
 ⢕⢕⠅⣐⢕⢕⢕⢕⢕⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿⢗⢕⢕⢕⢕⢕⢕⡏⣘⢕
 ⢕⢕⠅⢓⣕⣕⣕⣕⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷⣕⢕⢕⢕⢕⡵⢀⢕⢕
 ⢑⢕⠃⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⢕⢕⢕
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Wyyxx&icon=0&color=0)](https://visitcount.itsvg.in)
